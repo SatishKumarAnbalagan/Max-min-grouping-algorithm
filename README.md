@@ -3,4 +3,8 @@ Partial shading is a serious obstacle to effective utilization of photovoltaic (
 
 Dynamic programming algorithm finds grouping of array A with M groups so as to maximize the minimum element i.e. the summation of the elements in the j th group of array A. Grouping of the array A is described by an array G using optimal subproblem property
 
+# Pseudo code, Running time analysis and Results
 https://github.com/SatishKumarAnbalagan/Max-min-grouping-algorithm/blob/master/docs/github_Max_min_grouping.pdf
+
+# Near-Optimal, Dynamic Module Reconfiguration in a Photovoltaic System to Combat Partial Shading Effects
+https://github.com/SatishKumarAnbalagan/Max-min-grouping-algorithm/blob/master/docs/p516-lin.pdf
